@@ -1,0 +1,7 @@
+{   // See https://docs.microsoft.com/en-us/visualstudio/online/reference/configuring
+
+    // Automatically install TestDriven for VS Code extension
+    "extensions": [
+        "JamieCansdale.testdriven"
+    ]
+}
